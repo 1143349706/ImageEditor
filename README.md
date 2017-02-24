@@ -1,8 +1,6 @@
 # ImageEditor
-<br>swift版
-![Image text](https://github.com/1143349706/ImageEditor/blob/master/screenshot/1.jpg?raw=true)<br><hr>
-
-it has several functions:<br>
+<br>swift版图片编辑器
+主要:<br>功能
 
 ![Image text](https://github.com/1143349706/ImageEditor/blob/master/screenshot/4.jpg?raw=true)
 <br>
