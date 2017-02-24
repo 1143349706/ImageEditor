@@ -3,11 +3,13 @@
 主要功能：<br>
 实时滤镜和贴纸
 ![Image text](https://github.com/1143349706/ImageEditor/blob/master/screenshot/4.jpg?raw=true)
-<br>美化
+<br>自动优化
 <br>
 ![Image text](https://github.com/1143349706/ImageEditor/blob/master/screenshot/5.jpg?raw=true)
+<br>滤镜
 <br>
 ![Image text](https://github.com/1143349706/ImageEditor/blob/master/screenshot/6.jpg?raw=true)
+<br>自动优化
 <br>
 ![Image text](https://github.com/1143349706/ImageEditor/blob/master/screenshot/7.jpg?raw=true)
 <br>
